@@ -1,4 +1,4 @@
-# CSE4175-Introduction-to-Computer-Network
+# CSE4175_Introduction-to-Computer-Network
 서강대학교 기초컴퓨터네트워크(2022-1) 과제입니다.
 
 ## HW01
