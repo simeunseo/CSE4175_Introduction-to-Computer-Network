@@ -1,7 +1,7 @@
 # CSE4175_Introduction-to-Computer-Network
 서강대학교 기초컴퓨터네트워크(2022-1) 과제입니다.
 
-## HW01
+## [HW01]
 Cyclic redundancy check (CRC)를 이용하여 오류를 검출한다.
 - encoder : CRC를 이용하여 dataword를 codeword로 변환
 ```
@@ -12,7 +12,7 @@ Cyclic redundancy check (CRC)를 이용하여 오류를 검출한다.
 ./crc_decoder input_file output_file result_file generator dataword_size
 ```
 
-## HW02
+## [HW02]
 Distance Vector와 Link State routing algorithm을 이용하여 각 라우터의 라우팅 테이블을 생성하고 네트워크의 변화에 따라 라우팅 테이블을 업데이트한다.
 - linkstate : Link State routing algorithm을 이용하여 라우팅 테이블 관리
 ```
